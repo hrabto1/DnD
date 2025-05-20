@@ -1,0 +1,2 @@
+- Místo kam nás vzala [[Malia Grand]] na výslech. Mají podzemní místnost.
+- Hned vedle je [[Úřad]]

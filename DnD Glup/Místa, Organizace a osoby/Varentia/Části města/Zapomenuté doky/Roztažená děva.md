@@ -1,0 +1,1 @@
+- Utratili jsme zde hodně peněz

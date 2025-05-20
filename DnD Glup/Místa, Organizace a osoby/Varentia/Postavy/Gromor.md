@@ -1,0 +1,1 @@
+Válečník s jizvou a bílé vlasy.

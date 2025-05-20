@@ -1,0 +1,2 @@
+- Místní zbohatlík, všechno tady financuje, před gobliny měli problém s Orky a on je všechny vyhnal a dva z nich se přidali k vesnici:
+	- [[Otrem]] a [[Lara Hlavohruďová]].

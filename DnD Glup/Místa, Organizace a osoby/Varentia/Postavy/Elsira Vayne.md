@@ -1,0 +1,3 @@
+- Elfka
+- Vešekeré obchodní cesty
+- Nosím věci pro její obchodní společnost za 5s/hodinu v [[Zapomenuté doky]]. Opakuje se zde značka: Kladivo na ozubeném kolečku, červený symbol.

@@ -1,0 +1,1 @@
+Kapitán lodi k pronájmu, poveze nás na ostrov, na který nás vede mapa od [[Ogrym Doomhammer]]. Říkal, že takový ostrov neexistuje.

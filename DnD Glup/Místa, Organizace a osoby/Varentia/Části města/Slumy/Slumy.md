@@ -1,0 +1,1 @@
+Místo kam ani nechodí stráže, nejchudší část města

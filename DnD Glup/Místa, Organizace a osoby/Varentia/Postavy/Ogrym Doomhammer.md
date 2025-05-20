@@ -1,0 +1,1 @@
+Má v hlavě zaražený hřebík, kvůli kterému je údajně trošku jednoduší

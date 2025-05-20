@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "3f2dea74d0f7804c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9640a352671c16fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169bd288f0a7511a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a1578870eb3a60a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8386d56b8559f1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d477fb34b1b6518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1a4cdc89c52dffdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e6ce39e272ae78a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "6f382a1e4d127106",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd56410066921a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14da90d3342c4b91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DnD Glup/Session notes/13.05.2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 13.05.2025"
+            }
+          },
+          {
+            "id": "d5ebbd8c8ece3f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DnD Glup/Session notes/13.05.2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 13.05.2025"
+            }
+          },
+          {
+            "id": "696dfe501371653a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e3e03646732277e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "aa416a65b0f904ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "169bd288f0a7511a",
+  "lastOpenFiles": [
+    "DnD Glup/Session notes/20.05.2025.md",
+    "DnD Glup/Session notes/13.05.2025.md",
+    "DnD Glup/Místa, Organizace a osoby/Dremlin/Město/Domov Plate rodiny.md",
+    "DnD Glup/Místa, Organizace a osoby/Dremlin/Město/Krvácející svině.md",
+    "Untitled.canvas",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Grodrin Ashview/Turuk.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Varentia.md",
+    "Obrázky/SymbolOfSacrifice.png",
+    "DnD Glup/Session notes/04.05.2025.md",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Glup/Val'Gor.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Postavy/Frederiko Rodrigez.md",
+    "Obrázky",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Grodrin Ashview/Grodrin Ashview.md",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Glup",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Odrik Oakbloom",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Grodrin Ashview",
+    "DnD Glup/Místa, Organizace a osoby/Skupina/Nyx Rivington",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Úřad.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Brečící market.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Staré město.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy/Cechy Magie.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy/Cech Řemeslníků.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy/Cech Dobrodruhů.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy/Cech Obchodníků.md",
+    "DnD Glup/Místa, Organizace a osoby/Knihovna/Elian.md",
+    "DnD Glup/Kniha vědomostí/Mezilidské vztahy.md",
+    "DnD Glup/Kniha vědomostí/Upír.md",
+    "DnD Glup/Kniha vědomostí/Dhampír.md",
+    "DnD Glup/Kniha vědomostí/Záznam o dni.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Bohatší část města/Kapitánovi Rulverovi.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Postavy/Malia Grand.md",
+    "DnD Glup/Místa, Organizace a osoby/Organizace/Řád Zrcadla.md",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Postavy/Elsira Vayne.md",
+    "DnD Glup/Místa, Organizace a osoby/Archiv",
+    "DnD Glup/Místa, Organizace a osoby/Knihovna",
+    "DnD Glup/Místa, Organizace a osoby/Organizace",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy/Cechy magie",
+    "DnD Glup/Místa, Organizace a osoby/Varentia/Části města/Staré město/Cechy",
+    "DnD Glup/Untitled.canvas",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192704-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192741-0.jpeg",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192714-0.jpeg",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192711-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192709-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192727-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192725-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192715-0.png",
+    "Archiv/Dnd/Ztracené ostrovy/Screen/Exported image 20250507192713-0.png"
+  ]
+}

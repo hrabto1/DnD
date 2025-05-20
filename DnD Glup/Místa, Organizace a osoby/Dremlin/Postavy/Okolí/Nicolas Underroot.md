@@ -1,0 +1,2 @@
+- Je to vlkodlak
+- _Lovec byl dřív normální smrtelník, stejně jako jeho věrný vlk co ho doprovázel._ Lovec je velice proti tomu, aby si lidé ze zvířat dělali domácí mazlíčky.

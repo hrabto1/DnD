@@ -1,0 +1,5 @@
+- Trpaslík
+- Barbarian
+- První důstojník
+- Spolupachatel od kapitánky [[Nyx Rivington]]
+- V [[Cech Dobrodruhů]] si nechal přidat mezi jména "Pussyhunter"

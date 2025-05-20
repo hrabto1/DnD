@@ -1,0 +1,17 @@
+- Problémy
+    
+    - Problém s gobliny - 9-10 let
+    - Problém s orky
+    - Populace města?
+	    - Pár dětí existuje
+    - Jednou zmizela holčina
+        - Nenašlo se její tělo
+        - [[Izi Plate]]
+        - Chtěla odejít, do někoho se potenciálně zamilovala
+    - Existovala parta 4 dobrodruhů
+        - [[Vaska Morn]]
+        - [[Dallen Farcry]]
+        - [[Garrick Flintwale]]
+        - [[Orwyn Delle]]
+        - Byli 4, kteří jim pomohli od poslední skupiny goblinů - potom co se vrátili do vesnice plný zásob - 2 lidi a 2 elfy - Vaska je elfka, zbytek muži.
+        - [[Devon Blackmoor]] - znají jeho i jeho ženu, která zemřela. [[Velestra Morevayne]]- k [[Devon Blackmoor]]ovi domů 3 hodiny.

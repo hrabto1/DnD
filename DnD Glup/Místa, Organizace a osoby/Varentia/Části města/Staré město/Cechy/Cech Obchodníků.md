@@ -1,0 +1,3 @@
+- [[Staré město]]
+- Je na úřadě
+- [[Nyx Rivington]] a [[Odrik Oakbloom]] si tam nechali znovu vydat obchodní průkazy.

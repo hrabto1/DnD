@@ -1,0 +1,9 @@
+- 3 hodiny cesty od [[Dremlin]]u
+- Došli jsme k [[Devon Blackmoor]]ovi domů a našli jsme tam několik zkumavek se jmény. 
+	- [[Nyx Rivington]]
+	- [[Velestra Morevayne]]
+	- [[Orwyn Delle]]
+	- [[Garrick Flintwale]]
+	- [[Vaska Morn]]
+	- [[Dallen Farcry]]
+- Taky jsme tam našli jeho deník, který byl zašifrovaný a v elfštině.

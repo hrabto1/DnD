@@ -1,0 +1,1 @@
+Šaman, který ho učil.

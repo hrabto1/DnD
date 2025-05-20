@@ -1,0 +1,1 @@
+6 goblinů, zabili jsme je a odřezali jim ruce.

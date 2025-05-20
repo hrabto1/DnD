@@ -1,0 +1,1 @@
+- Asistentka [[Elian]]a, která mu zapisuje co se děje.

@@ -1,0 +1,4 @@
+- Párkrát viděl [[Odrik Oakbloom]] plakát se jménem [[Caspian Vire]]
+- Je to hudebník, konkrétně klavírista
+- Řekl v dopise [[Nyx Rivington]], že nejsme jediní kdo přichází o vzpomínky a nejsme jediní kdo s tím chtějí něco dělat. Počká a nás na tom místě, kam máme jít.
+- V dopise pro [[Nyx Rivington]] bylo, že viděl "nejen temnotu v tvých očích, ale i ozvěnu tvé duše nesoucí se v prázdnotě."

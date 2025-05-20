@@ -1,0 +1,1 @@
+- Obchodnická guilda, je tam stojan s lístky a čeká se dlouhá fronta než se někam člověk dostane.

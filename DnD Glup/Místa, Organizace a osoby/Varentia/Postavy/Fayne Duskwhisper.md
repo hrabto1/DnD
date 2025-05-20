@@ -1,0 +1,4 @@
+- Má sídlo v [[Bohatší část města]]
+- 25 let
+- Měsíční elf - pobledlá pleť, oči mají podobnou barvu
+- Pod očima, na čele a bradě má zlatá znamení

@@ -1,0 +1,2 @@
+- Spousta lidí je tam ubytována
+- Jedna z vývěsek, na tu potřebujeme průkaz

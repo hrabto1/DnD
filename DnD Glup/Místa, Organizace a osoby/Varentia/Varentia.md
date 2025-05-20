@@ -1,0 +1,12 @@
+Přístavní město, ze kterého jsme cestovali do [Dremlin](Dremlin.md)u.
+- Celé město obestavěné hradbou s ochranou stráží
+- Žlutá a červená je barva města a symbol je pootočená, ohnutá kotva.
+    - Pokud nebudeme mít práci, budeme za týden vyhoštěni
+    - Dostaneme dočasné průkazy, kterým trvá týden než vyprší.
+    - Pěstní zápasy - Nejpopulárnější jsou ve slumech (opilá mince), setkává se tam vybraná skupina lidí a potřebují vstupenku
+    - Lidí zde pouští lampiony každý večer za každého padlého člověka ten den. 
+- Části města:
+	- [[Slumy]]
+	- [[Zapomenuté doky]]
+	- [[Staré město]]
+	- [[Bohatší část města]]

@@ -1,0 +1,1 @@
+- Místo kde se dá koupit skoro cokoliv. Zkoušelo nás zde okrást dítě hned při vstupu do města.

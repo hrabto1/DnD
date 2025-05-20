@@ -1,0 +1,2 @@
+- Elfka
+- Potom co Nyx vypila vzpomínky Vasky viděla budovu s výhní.

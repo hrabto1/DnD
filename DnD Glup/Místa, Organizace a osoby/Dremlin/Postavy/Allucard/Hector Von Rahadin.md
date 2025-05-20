@@ -1,0 +1,2 @@
+- Před hostincem stojí postava s ulíznutými černými vlasy, červené oči, brokátový frak, železný náhrdelník. Stojí vedle černého kočáru a černých koních se zlatým lemováním.
+- jeho psi "zaběhli" do města.

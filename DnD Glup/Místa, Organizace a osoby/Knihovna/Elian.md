@@ -1,0 +1,3 @@
+- Majitel knihovny
+- Vidím bělovlasý brýlatý mládenec 
+- Dal mi marku pro Channel Divinity na vyvolání knížky

@@ -1,0 +1,1 @@
+- Může být dobrý target na informace

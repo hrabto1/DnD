@@ -1,0 +1,3 @@
+- [[Varentia]]
+- Kladivo s ozubeným kolečkem - vlastní [[Fayne Duskwhisper]]
+- Kotva s řetězem - Přepravní společnost - sídlo v dokách - [[Garl]]

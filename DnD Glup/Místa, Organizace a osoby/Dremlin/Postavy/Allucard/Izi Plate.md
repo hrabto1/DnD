@@ -1,0 +1,3 @@
+- Ona a její brácha [[Will Plate]] nás vedou do hostince. 
+- Will nás následoval do gobliního kempu, ale vrátil se, když jsme ho načapali.
+- Po proměně a vzpomínkách může být označovaná jako Eralda

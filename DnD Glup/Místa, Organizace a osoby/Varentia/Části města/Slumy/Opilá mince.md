@@ -1,0 +1,8 @@
+- Je potřeba pozvánka
+- Nachází se ve [[Slumy]]
+- Místo patří jednomu ze tří místních gangů
+- Patří to [[Fayne Duskwhisper]]
+	-  VIP - je tam aréna s klecemi
+	- Dotáhl nás do arény, kde zatleskal a rozhostilo se velké ticho.
+	- Nechal fightit [[Grodrin Ashview]]a a [[Odrik Oakbloom]]a v aréně proti chiméře. Odměna 100g a dlužíme mu službu.
+	- Dostali jsme černou minci, abychom mohli ukázat, že máme dohodu s [[Fayne Duskwhisper]].

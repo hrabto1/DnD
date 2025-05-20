@@ -1,0 +1,1 @@
+- Potom co jsem vypil vzpomínky Dallena, vidím jak cestoval s Vaskou a vidím místo - Budova, jak se z ní kouří.

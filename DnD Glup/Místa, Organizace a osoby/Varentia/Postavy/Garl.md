@@ -1,0 +1,1 @@
+Vlastní společnost, kterou chce [[Fayne Duskwhisper]] poškodit.

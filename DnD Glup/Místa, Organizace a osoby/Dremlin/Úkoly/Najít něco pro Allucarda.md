@@ -1,0 +1,1 @@
+[[Allucard Hellsing]] nám dal vzpomínky a řekl, ať pro něj něco [[Nyx Rivington]] najde a že budeme vědět co má přinést.

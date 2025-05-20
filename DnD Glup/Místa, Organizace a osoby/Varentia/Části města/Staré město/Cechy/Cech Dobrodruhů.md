@@ -1,0 +1,6 @@
+- [[Staré město]]
+- V cechu dobrodruhů je hodně osob a velká vývěska.
+- Testují nás:
+	- [[Gromor]] a [[Eliana]]
+- Potkali jsme zde po testování [[Holan Reek]].
+- [[Nyx Rivington]] úroveň C a zbytek úroveň D.
